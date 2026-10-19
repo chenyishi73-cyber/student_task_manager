@@ -63,4 +63,4 @@ CREATE TABLE IF NOT EXISTS tasks (
 
 -- ENGINE=InnoDB：使用 InnoDB 存储引擎
 -- 支持事务、行级锁和外键等功能
-) ENGINE=InnoDB;
+);
